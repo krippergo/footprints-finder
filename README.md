@@ -1,2 +1,2 @@
-# Accessum
+# FootprintsFinder
 Описание в разработке
